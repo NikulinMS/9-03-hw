@@ -71,6 +71,10 @@ else:
 
 ### Задание 8*
 
+![Discovery.png](img%2FDiscovery.png)
+![Discovery_hosts.png](img%2FDiscovery_hosts.png)
+![Discovery_operations.png](img%2FDiscovery_operations.png)
+![Discovery_rules.png](img%2FDiscovery_rules.png)
+
 ---
 
-### Задание 9*

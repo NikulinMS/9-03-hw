@@ -29,6 +29,20 @@
 
 ### Задание 6*
 
+![6_latest_data.png](img%2F6_latest_data.png)
+
+```bash
+#!/bin/bash
+
+if [[ $1 -eq 1 ]]
+then
+  echo "Никулин Михаил Сергеевич"
+elif [[ $1 -eq 2 ]]
+then
+  echo $(date "+%Y-%m-%d")
+fi
+```
+
 ---
 
 ### Задание 7*
